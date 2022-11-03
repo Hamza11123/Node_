@@ -1,0 +1,14 @@
+{
+  "name": "hamza",
+  "version": "1.0.0",
+  "description": "this is only for educational Purpose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

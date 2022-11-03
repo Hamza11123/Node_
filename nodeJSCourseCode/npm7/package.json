@@ -1,0 +1,22 @@
+{
+  "name": "npm7",
+  "version": "1.0.0",
+  "description": "Initializing the directory as NPM to use different Kinda Modules",
+  "main": "npm7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3", 
+    "slug": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
+
